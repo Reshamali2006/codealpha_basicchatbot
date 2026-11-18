@@ -1,4 +1,4 @@
-# Python Chatbot
+# Python BasicChatbot
 
 A simple chatbot that replies to user messages, built using Python.
 
